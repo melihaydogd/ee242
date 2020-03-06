@@ -1,0 +1,10 @@
+The largest eigenvalue:3.99998
+Corresponding eigenvector:
+0.380802
+0.800738
+1
+The smallest eigenvalue:2.00001
+Corresponding eigenvector:
+0.783968
+1
+-0.0881233
